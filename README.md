@@ -52,6 +52,7 @@ Use Case Prompt Smartphone User Perspective As a regular smartphone user, descri
 Everyday Functioning Prompt
 
 Use Case Prompt Smartphone Applications Describe how AI features in smartphones improve photography, communication, and entertainment in daily life. Daily Technology Usage Explain how recommendation systems are used in daily applications such as YouTube and Netflix.
+
 RESULT:
 
 Thus, prompts for Comparative Analysis Prompt, Experiential Perspective Prompt, and Everyday Functioning Prompt were successfully created for different scenarios and use cases. The experiment helped in understanding how different prompt patterns can be used to obtain comparative information, user experiences, and practical applications in real-world situations.
