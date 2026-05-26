@@ -40,7 +40,7 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
 OUTPUT:
-~~~
+
 Comparative Analysis Prompt
 
 Use Case Prompt Smartphone Comparison Compare and contrast Samsung Galaxy S24 and iPhone 15 in terms of battery life, AI camera features, performance, and price. Technology Comparison Compare and contrast 5G and 4G network technology in terms of speed, latency, and applications.
@@ -52,8 +52,7 @@ Use Case Prompt Smartphone User Perspective As a regular smartphone user, descri
 Everyday Functioning Prompt
 
 Use Case Prompt Smartphone Applications Describe how AI features in smartphones improve photography, communication, and entertainment in daily life. Daily Technology Usage Explain how recommendation systems are used in daily applications such as YouTube and Netflix.
-~~~
 RESULT:
-~~~
+
 Thus, prompts for Comparative Analysis Prompt, Experiential Perspective Prompt, and Everyday Functioning Prompt were successfully created for different scenarios and use cases. The experiment helped in understanding how different prompt patterns can be used to obtain comparative information, user experiences, and practical applications in real-world situations.
-~~~
+
